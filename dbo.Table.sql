@@ -1,0 +1,5 @@
+﻿CREATE TABLE Nimed
+(
+	[Id] INT NOT NULL PRIMARY KEY,
+	[Name] TEXT NOT NULL
+)
